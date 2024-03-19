@@ -1,6 +1,8 @@
 Perform the following query scenarios using the dvdrental sample database.
 
 
+
+
 1- Sort the data in the title and description columns in the movie table.
 
 2- Sort the data in all columns in the movie table, with the movie length being greater than 60 AND less than 75.
@@ -13,6 +15,8 @@ Perform the following query scenarios using the dvdrental sample database.
 
 
 Solution:
+
+
 
 1- select title, description from film;
 
