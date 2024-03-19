@@ -14,7 +14,7 @@ Perform the following query scenarios using the dvdrental sample database.
 
 Solution:
 
-1- 'select title, description from film;'
+1- 'select title, description from film'
 
 2- 'select * from film where length > 60 and length < 75;'
 
